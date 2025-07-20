@@ -1,0 +1,11 @@
+body {
+    border:10px solid black;
+    border-radius: none;
+    color: black;
+    background-color: rgb(110, 70, 92);
+    text-align: center;
+}
+.game-link
+{
+    color: black;
+}

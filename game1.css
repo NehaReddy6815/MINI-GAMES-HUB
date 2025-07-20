@@ -1,0 +1,54 @@
+input {
+    padding: 10px;
+    border: 5px solid #191716;
+    margin-right: 10px;
+    font-size: small;
+    font-style: italic;
+
+
+}
+
+body {
+    background-color: #84596b;
+    padding: 0;
+    margin: 0;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    color: #191716;
+}
+
+a {
+    color: black;
+}
+
+button {
+    padding: 10px;
+    border-radius: 2%;
+
+    border: black;
+
+    font-size: small;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #542d33;
+}
+
+#Results {
+    padding: 0% margin-top 10px;
+    color: #4c0306;
+    font-style: italic;
+}
+
+#Attempts {
+    padding: 0%;
+    margin-top: 20px;
+    color: #4c0306;
+}
